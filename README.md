@@ -1,22 +1,52 @@
 # Modulo-3
 
-ARCHIVOS 
-  csv 
-  /data/raw/embarazas_conalep.csv
-  /data/raw/info_entidades.csv
+# Módulo 3: Análisis de Continuidad Escolar en Adolescentes Embarazadas
 
-  script 
-  /scripts/transform.R 
+## 📁 Estructura de Archivos
 
-EXPLICACION 
-Este es un proyecto recomilando las versiones anteriores de mis trabajos. 
-Para este Modulo use mi .csv de Adolescentes que siguieron sus estudios en el CONALEP en el periodo de febrero a Julio del 2024. 
-Para esta actividad realice un flujo de limpieza y configurar los caracteres especiales sencillo, posteriormente use funciones para poder ver mejor los datos mostrados. 
+/data/
+│
+├── raw/
+│ ├── embarazadas_conalep.csv
+│ └── info_entidades.csv
+│
+└── processed/
+└── final_dataset.csv
 
-1. Separe la columna "periodo" en mes_inicio y mes_final
-2. Realice un join con el archivo info_entidades.csv para hacer una comparativa con el numero de adolescentes dependiendo de la region geografica que descertan con las chicas que aun embarazadas continuan con sus estudios.
+/scripts/
+└── transform.R
 
-3. El .csv lo coloque en /data/processed/final.dataset.csv
+
+## 📝 Descripción del Proyecto
+
+Este proyecto reúne las versiones anteriores de mis trabajos para el Módulo 3.  
+El objetivo es analizar cuántas adolescentes embarazadas continuaron sus estudios en CONALEP durante el periodo **febrero a julio de 2024**, y comparar esos datos con la población adolescente total por entidad.
+
+## Flujo de Transformación
+
+En el script `transform.R`, se realizó el siguiente procesamiento de datos:
+
+1. **Limpieza inicial del dataset**:
+   - Se eliminaron espacios innecesarios y se estandarizaron nombres de columnas.
+   - Se configuró el manejo de caracteres especiales.
+
+2. **Separación de periodos**:
+   - La columna `periodo` fue separada en dos nuevas columnas: `mes_inicio` y `mes_fin`.
+
+3. **Unión con datos adicionales**:
+   - Se utilizó un `left_join` con el archivo `info_entidades.csv` para agregar:
+     - Población total por entidad.
+     - Población adolescente estimada.
+     - Región geográfica.
+
+4. **Creación del dataset final**:
+   - El resultado fue guardado como `/data/processed/final_dataset.csv`.
+
+##  Objetivo
+
+El propósito de este flujo es comparar el número de adolescentes embarazadas que continuaron sus estudios con la población adolescente que descidio desertar en cada entidad, facilitando un análisis por región geográfica.
+
+
 
    
 
