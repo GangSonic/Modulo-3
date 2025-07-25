@@ -4,17 +4,7 @@
 
 ## 📁 Estructura de Archivos
 
-/data/
-│
-├── raw/
-│ ├── embarazadas_conalep.csv
-│ └── info_entidades.csv
-│
-└── processed/
-└── final_dataset.csv
-
-/scripts/
-└── transform.R
+<img width="285" height="303" alt="image" src="https://github.com/user-attachments/assets/44c91c80-7b3b-4f02-a385-df81dc82fc04" />
 
 
 ## 📝 Descripción del Proyecto
