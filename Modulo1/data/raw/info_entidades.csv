@@ -1,0 +1,33 @@
+﻿clave_entidad,entidad,poblacion_total,poblacion_adolescente,region_geografica
+1,Aguascalientes,1450000,210000,Centro-Norte
+2,Baja California,3760000,540000,Noroeste
+3,Baja California Sur,820000,120000,Noroeste
+4,Campeche,928000,140000,Sur
+5,Coahuila,3200000,460000,Norte
+6,Colima,735000,110000,Occidente
+7,Chiapas,5500000,970000,Sur
+8,Chihuahua,3900000,600000,Norte
+9,Ciudad de México,9200000,1300000,Centro
+10,Durango,1900000,290000,Norte
+11,Guanajuato,6400000,900000,Bajío
+12,Guerrero,3500000,580000,Sur
+13,Hidalgo,3200000,480000,Centro
+14,Jalisco,8400000,1200000,Occidente
+15,México,17600000,2700000,Centro
+16,Michoacán,4900000,700000,Occidente
+17,Morelos,2000000,300000,Centro
+18,Nayarit,1300000,190000,Occidente
+19,Nuevo León,5800000,850000,Norte
+20,Oaxaca,4300000,720000,Sur
+21,Puebla,6600000,980000,Centro
+22,Querétaro,2400000,350000,Bajío
+23,Quintana Roo,1900000,270000,Sur
+24,San Luis Potosí,3000000,450000,Centro-Norte
+25,Sinaloa,3200000,460000,Noroeste
+26,Sonora,3100000,470000,Noroeste
+27,Tabasco,2400000,360000,Sur
+28,Tamaulipas,3700000,560000,Norte
+29,Tlaxcala,1400000,200000,Centro
+30,Veracruz,7800000,1100000,Golfo
+31,Yucatán,2400000,340000,Sur
+32,Zacatecas,1600000,240000,Centro-Norte

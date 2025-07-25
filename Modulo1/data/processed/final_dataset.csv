@@ -1,0 +1,33 @@
+clave_entidad,entidad.x,mes_inicio,mes_fin,anio,numero_adolescentes_embarazadas_continuan_estudios,semestre,region,entidad.y,poblacion_total,poblacion_adolescente,region_geografica
+1,Aguascalientes,Febrero,Julio,2024,7,1er semestre,Centro-Norte,Aguascalientes,1450000,210000,Centro-Norte
+2,Baja California,Febrero,Julio,2024,4,1er semestre,Otra región,Baja California,3760000,540000,Noroeste
+3,Baja California Sur,Febrero,Julio,2024,2,1er semestre,Otra región,Baja California Sur,820000,120000,Noroeste
+4,Campeche,Febrero,Julio,2024,7,1er semestre,Otra región,Campeche,928000,140000,Sur
+7,Chiapas,Febrero,Julio,2024,7,1er semestre,Otra región,Chiapas,5500000,970000,Sur
+8,Chihuahua,Febrero,Julio,2024,30,1er semestre,Otra región,Chihuahua,3900000,600000,Norte
+9,Ciudad de México,Febrero,Julio,2024,65,1er semestre,Otra región,Ciudad de México,9200000,1300000,Centro
+5,Coahuila,Febrero,Julio,2024,51,1er semestre,Otra región,Coahuila,3200000,460000,Norte
+6,Colima,Febrero,Julio,2024,2,1er semestre,Otra región,Colima,735000,110000,Occidente
+10,Durango,Febrero,Julio,2024,7,1er semestre,Otra región,Durango,1900000,290000,Norte
+11,Guanajuato,Febrero,Julio,2024,20,1er semestre,Otra región,Guanajuato,6400000,900000,Bajío
+12,Guerrero,Febrero,Julio,2024,8,1er semestre,Otra región,Guerrero,3500000,580000,Sur
+13,Hidalgo,Febrero,Julio,2024,9,1er semestre,Otra región,Hidalgo,3200000,480000,Centro
+14,Jalisco,Febrero,Julio,2024,9,1er semestre,Otra región,Jalisco,8400000,1200000,Occidente
+15,México,Febrero,Julio,2024,294,1er semestre,Otra región,México,17600000,2700000,Centro
+16,Michoacán,Febrero,Julio,2024,2,1er semestre,Otra región,Michoacán,4900000,700000,Occidente
+17,Morelos,Febrero,Julio,2024,6,1er semestre,Centro,Morelos,2000000,300000,Centro
+18,Nayarit,Febrero,Julio,2024,5,1er semestre,Otra región,Nayarit,1300000,190000,Occidente
+19,Nuevo León,Febrero,Julio,2024,82,1er semestre,Otra región,Nuevo León,5800000,850000,Norte
+20,Oaxaca,Febrero,Julio,2024,17,1er semestre,Otra región,Oaxaca,4300000,720000,Sur
+21,Puebla,Febrero,Julio,2024,6,1er semestre,Centro,Puebla,6600000,980000,Centro
+22,Querétaro,Febrero,Julio,2024,0,1er semestre,Otra región,Querétaro,2400000,350000,Bajío
+23,Quintana Roo,Febrero,Julio,2024,40,1er semestre,Otra región,Quintana Roo,1900000,270000,Sur
+24,San Luis Potosi,Febrero,Julio,2024,18,1er semestre,Otra región,San Luis Potosí,3000000,450000,Centro-Norte
+25,Sinaloa,Febrero,Julio,2024,27,1er semestre,Otra región,Sinaloa,3200000,460000,Noroeste
+26,Sonora,Febrero,Julio,2024,0,1er semestre,Otra región,Sonora,3100000,470000,Noroeste
+27,Tabasco,Febrero,Julio,2024,9,1er semestre,Otra región,Tabasco,2400000,360000,Sur
+28,Tamaulipas,Febrero,Julio,2024,20,1er semestre,Otra región,Tamaulipas,3700000,560000,Norte
+29,Tlaxcala,Febrero,Julio,2024,6,1er semestre,Otra región,Tlaxcala,1400000,200000,Centro
+30,Veracruz,Febrero,Julio,2024,0,1er semestre,Otra región,Veracruz,7800000,1100000,Golfo
+31,Yucatán,Febrero,Julio,2024,4,1er semestre,Otra región,Yucatán,2400000,340000,Sur
+32,Zacatecas,Febrero,Julio,2024,4,1er semestre,Centro-Norte,Zacatecas,1600000,240000,Centro-Norte
